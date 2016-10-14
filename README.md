@@ -10,7 +10,7 @@ Coming soon!
 Coming soon!
 
 ##Contact
-Benjamin S. Meyers < <lion.logic.org@gmail.com> >
+Benjamin S. Meyers < <ben@lionlogic.org> >
 
 ##Licensing
 The MIT License (MIT)
